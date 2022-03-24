@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there, I'm @si1o0👋
+aka Simon B.
 
-<!--
-**s1o0/s1o0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a french IT Student à Vannes's IUT, but i'm looking for a new school in the next September.
+I really like Video Games, Competitive Programming and music in my free time.
 
-Here are some ideas to get you started:
+🌙 Here are some informations about me :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a Discord's Bot with Python 
+- 🌱 I’m currently learning C++, Python, Web Developpement
+- 😄 You can call me also : s1o, s1o0, zimitim
+- 🏫 I would like to go to an Engineer School in September
+
+
+📢 Contact me :
+
+- Discord : s1o#1610
+
+
+
