@@ -1,4 +1,4 @@
-### Hi there, I'm @si1o0👋
+### Hi there, I'm @s1o0👋
 aka Simon B.
 
 I'm a french IT Student à Vannes's IUT, but i'm looking for a new school in the next September.
