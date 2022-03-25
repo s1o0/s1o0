@@ -4,7 +4,7 @@ aka Simon B.
 I'm a french IT Student à Vannes's IUT, but i'm looking for a new school in the next September.
 I really like Video Games, Competitive Programming and music in my free time.
 
-🌙 Here are some informations about me :
+🌙 <h3>Here are some informations about me :</h3>
 
 - 🔭 I’m currently working on a Discord's Bot with Python 
 - 🌱 I’m currently learning C++, Python, Web Developpement
