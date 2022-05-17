@@ -1,14 +1,13 @@
 ### Hi there, I'm @s1o0👋
 aka Simon B.
 
-I'm a french IT Student à Vannes's IUT, but i'm looking for a new school for September.
+I'm a french IT Student à Vannes's IUT, but i'm looking for a new school in September.
 I like Video Games, Competitive Programming and music.
 🌙 <h3>Here are some informations about me :</h3>
 
-- 🔭 I’m currently working on a Discord's Bot with Python 
-- 🌱 I’m learned C++, Python, Web Developpement, Java
+- 🔭 I’m currently working on a Discord's Bot with Python and on a Pix2Pix implementation
+- 🌱 My main programming languages are C++, Python and Java but I learned JavaScript, PHP etc...
 - 😄 You can find me with my different usernames : s1o, s1o0
-- 🏫 I would like to go to an Engineer School in September
 
 
 <h3 align="left">Connect with me:</h3>
