@@ -1,7 +1,7 @@
 ### Hi there, I'm @s1o0👋
 aka Simon B.
 
-I'm a french IT Student à Vannes's IUT, but i'm looking for a new school in September.
+I'm a french IT Student à Vannes's IUT, but I'm looking for a new school in September.
 I like Video Games, Competitive Programming and music.
 🌙 <h3>Here are some informations about me :</h3>
 
